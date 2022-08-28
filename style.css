@@ -1,0 +1,27 @@
+.seacrhBar {
+    margin-left: 55%;
+}
+
+.btn {
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 1px 10px;
+    margin-left: 17px;
+    color: white;
+}
+
+.nav {
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+input {
+    border-radius: 8px;
+}
